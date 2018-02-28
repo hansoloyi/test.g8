@@ -1,0 +1,9 @@
+.idea/*
+.idea
+target/
+target/*
+target
+project/project
+project/target
+project/target/*
+project/project/*
